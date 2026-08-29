@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in the [Operations Research](https://www.cmu.edu/tepper/faculty-and-research/academic-areas/operations-research) program at Carnegie Mellon University, where I am advised by [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/). My research sits at the intersection of integer programming, discrete optimization, and lattice theory, with additional interests in convex optimization, network optimization, and data-driven decision-making. Before my PhD, I received a B.S. in Industrial Engineering from the University of Wisconsin–Madison in 2022, where I was advised by [Yonatan Mintz](https://engineering.wisc.edu/directory/profile/yonatan-mintz/).
+Welcome! I am a fifth-year PhD candidate in the [Operations Research](https://www.cmu.edu/tepper/faculty-and-research/academic-areas/operations-research) program at Carnegie Mellon University, where I am advised by [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/). My research sits at the intersection of integer programming, discrete optimization, and lattice theory, with additional interests in convex optimization, network optimization, and data-driven decision-making. Before my PhD, I received a B.S. in Industrial Engineering from the University of Wisconsin–Madison in 2022, where I was advised by [Yonatan Mintz](https://engineering.wisc.edu/directory/profile/yonatan-mintz/).
 
 In Summer 2026, I was an applied scientist intern at Amazon in the [Modeling and Optimization (MOP) team](https://www.amazon.jobs/content/en/teams/fulfillment-and-operations/mop). I was also a research scientist intern in the MOP team during Summer 2025. 
 
