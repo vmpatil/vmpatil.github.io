@@ -17,12 +17,9 @@
   /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
 
-  /* keep footer in normal flow; sticky-footer behavior is handled by body/.initial-content flex layout */
+  /* keep footer in normal document flow (not fixed to viewport) */
   position: static;
   bottom: auto;
-
-  /* allow page-level flex layout to place footer at viewport bottom on short pages */
-  float: none;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
