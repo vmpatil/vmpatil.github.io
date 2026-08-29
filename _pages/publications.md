@@ -38,13 +38,13 @@ Health Care Management Science, 2026. [(Link)](https://link.springer.com/article
 Gérard Cornuéjols, Özgün Elçi, Vrishabh Patil <br/>
 Quantitative Finance, 2026. [(Link)](https://www.tandfonline.com/doi/abs/10.1080/14697688.2025.2606114) [(pdf)](https://vmpatil.github.io/files/portfolio_estimation_errors.pdf)
 
-* _Reducing the Chv\'atal Rank through Binarization_ <br/>
+* _Reducing the Chvátal Rank through Binarization_ <br/>
 Gérard Cornuéjols, Vrishabh Patil <br/>
 Operations Research Letters, 2024. [(Link)](https://www.sciencedirect.com/science/article/pii/S0167637724000555) [(pdf)](https://vmpatil.github.io/files/binarization.pdf)
 
 ## Conference Publications
 
-* _The Chv\'atal Rank of 2-Dimensional Integer-Free Polyhedra_ <br/>
+* _The Chvátal Rank of 2-Dimensional Integer-Free Polyhedra_ <br/>
 Gérard Cornuéjols, Vrishabh Patil <br/>
 9th International Symposium on Combinatorial Optimization, 2026. (To appear) [(pdf)](https://vmpatil.github.io/files/chvatal2d.pdf)
 
