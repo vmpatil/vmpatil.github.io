@@ -387,3 +387,18 @@ html, body {
   clear: both !important;
   margin-top: auto !important;
 }
+
+/* --- STICKY NAVIGATION MENU BAR --- */
+.masthead {
+  position: fixed !important;
+  top: 0 !important;
+  width: 100% !important;
+  z-index: 1000 !important;
+  /* Match the default background color so text scrolling underneath is hidden */
+  background-color: #fff !important; 
+}
+
+/* Add padding to the top of the webpage so the fixed navbar doesn't cover your initial content */
+body {
+  padding-top: 60px !important;
+}
