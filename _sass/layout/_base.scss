@@ -387,3 +387,9 @@ html, body {
   clear: both !important;
   margin-top: auto !important;
 }
+
+/* 4. Fine-tune the text alignment inside the footer */
+.page__footer p, footer p, .page__footer-copyright {
+  line-height: 1.5 !important; /* Keeps the text tightly bound and centered */
+  margin-top: 5px !important;  /* Controls the exact distance right below the divider line */
+}
