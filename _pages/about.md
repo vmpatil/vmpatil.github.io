@@ -11,7 +11,7 @@ Welcome! I am a PhD candidate in the [Operations Research](https://www.cmu.edu/t
 
 In Summer 2026, I was an applied scientist intern at Amazon in the [Modeling and Optimization (MOP) team](https://www.amazon.jobs/content/en/teams/fulfillment-and-operations/mop). I was also a research scientist intern in the MOP team during Summer 2025. 
 
-I am also an active member of the INFORMS community, having served as President of the CMU INFORMS Student Chapter from 2024 to 2026.
+I am also an active member of the INFORMS community, having served as president of the CMU INFORMS Student Chapter from 2024 to 2026.
 
 You can find my CV [here](https://vmpatil.github.io/files/Vrishabh_CV.pdf).
 
