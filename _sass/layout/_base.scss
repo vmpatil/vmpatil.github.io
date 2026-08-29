@@ -376,17 +376,22 @@ html, body {
 
 /* 2. Push the footer perfectly to the baseline without causing a scrollbar */
 #main {
-  /* 100vh is screen height. We subtract 180px to safely account for the top navbar + footer heights */
   min-height: calc(100vh - 180px) !important;
   box-sizing: border-box !important;
 }
 
-/* 3. Keep the footer resting cleanly on the page bottom */
+/* 3. Refined footer placement and text alignment */
 .page__footer, footer {
   position: static !important;
   clear: both !important;
-  margin-top: auto !important;
+  
+  /* Creates a 40px cushion below your main body text on long pages */
+  margin-top: 40px !important; 
+  
+  /* Pushes the text down 25px away from the divider line to vertically center it */
+  padding-top: 25px !important; 
 }
+
 
 /* --- STICKY NAVIGATION MENU BAR --- */
 .masthead {
@@ -394,11 +399,9 @@ html, body {
   top: 0 !important;
   width: 100% !important;
   z-index: 1000 !important;
-  /* Match the default background color so text scrolling underneath is hidden */
   background-color: #fff !important; 
 }
 
-/* Add padding to the top of the webpage so the fixed navbar doesn't cover your initial content */
 body {
   padding-top: 60px !important;
 }
