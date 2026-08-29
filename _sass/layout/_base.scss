@@ -368,19 +368,22 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   
 /* --- SAFE STICKY FOOTER WITHOUT SIDEBAR SHIFT --- */
 
-/* 1. Reset html/body back to normal to fix your sidebar grid */
+/* 1. Ensure the container calculates height relative to the viewport layout */
 html, body {
   height: auto !important;
   display: block !important;
 }
 
-/* 2. Force the main container to span the viewport height minus the footer */
+/* 2. Push the footer perfectly to the baseline without causing a scrollbar */
 #main {
-  min-height: calc(100vh - 80px) !important;
+  /* 100vh is screen height. We subtract 180px to safely account for the top navbar + footer heights */
+  min-height: calc(100vh - 180px) !important;
+  box-sizing: border-box !important;
 }
 
-/* 3. Ensure the footer sits cleanly at the baseline */
+/* 3. Keep the footer resting cleanly on the page bottom */
 .page__footer, footer {
   position: static !important;
   clear: both !important;
+  margin-top: auto !important;
 }
