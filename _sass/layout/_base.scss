@@ -385,5 +385,5 @@ html, body {
 .page__footer, footer {
   position: static !important;
   clear: both !important;
-  margin-top: 40px !important; /* Replaced 'auto' with a fixed gap to separate it from your long page text */
+  margin-top: auto !important;
 }
