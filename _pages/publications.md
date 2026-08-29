@@ -40,7 +40,7 @@ Quantitative Finance, 2026. [(Link)](https://www.tandfonline.com/doi/abs/10.1080
 
 * _Reducing the Chv\'atal Rank through Binarization_ <br/>
 Gérard Cornuéjols, Vrishabh Patil <br/>
-Operations Research Letters, 2024. (Link)](https://www.sciencedirect.com/science/article/pii/S0167637724000555) [(pdf)](https://vmpatil.github.io/files/binarization.pdf)
+Operations Research Letters, 2024. [(Link)](https://www.sciencedirect.com/science/article/pii/S0167637724000555) [(pdf)](https://vmpatil.github.io/files/binarization.pdf)
 
 ## Conference Publications
 
