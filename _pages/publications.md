@@ -24,6 +24,8 @@ Author order is alphabetical by last name unless otherwise noted by (*).
 Gérard Cornuéjols, Anthony Karahalios, Vrishabh Patil  <br/>
 Submitted to Mathematical Programming Computation. [(Link)](https://vmpatil.github.io/files/example.pdf)
 
+
+
 ## Journal Publications
 
 * _Healthcare Applications of 0-1 Neural Networks in Prescriptive Problems with Observational Data_ <br/>
