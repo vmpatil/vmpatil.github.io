@@ -366,8 +366,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     }
   }
   
-html,
-body {
+html {
   height: 100%;
 }
 
@@ -377,12 +376,20 @@ body {
   flex-direction: column;
 }
 
-/* Main content wrapper expands to push footer to bottom on short pages */
+/* In this theme, all page content + footer are inside #main */
+#main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Let content area grow and push footer down on short pages */
 .initial-content {
   flex: 1 0 auto;
 }
 
-/* Footer remains after content and does not collapse */
+/* Footer stays in normal flow at the end */
 .page__footer {
+  margin-top: auto;
   flex-shrink: 0;
-}  
+}
