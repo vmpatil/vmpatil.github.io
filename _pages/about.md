@@ -13,7 +13,7 @@ In Summer 2026, I was an applied scientist intern at Amazon in the [Modeling and
 
 I am also an active member of the INFORMS community, having served as President of the CMU INFORMS Student Chapter from 2024 to 2026.
 
-You can find my CV [here]("https://vmpatil.github.io/files/Vrishabh_CV.pdf").
+You can find my CV [here](https://vmpatil.github.io/files/Vrishabh_CV.pdf).
 
 <h1 class="page__title">News</h1>
 
