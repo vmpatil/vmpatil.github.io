@@ -366,14 +366,21 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     }
   }
   
-/* --- FIX FOOTER POSITIONING --- */
+/* --- SAFE STICKY FOOTER WITHOUT SIDEBAR SHIFT --- */
+
+/* 1. Reset html/body back to normal to fix your sidebar grid */
 html, body {
-  height: 100%;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
+  height: auto !important;
+  display: block !important;
 }
 
+/* 2. Force the main container to span the viewport height minus the footer */
 #main {
-  flex: 1 0 auto;
+  min-height: calc(100vh - 80px) !important;
+}
+
+/* 3. Ensure the footer sits cleanly at the baseline */
+.page__footer, footer {
+  position: static !important;
+  clear: both !important;
 }
