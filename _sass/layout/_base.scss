@@ -365,3 +365,24 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+  
+html,
+body {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main content wrapper expands to push footer to bottom on short pages */
+.initial-content {
+  flex: 1 0 auto;
+}
+
+/* Footer remains after content and does not collapse */
+.page__footer {
+  flex-shrink: 0;
+}  
