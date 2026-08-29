@@ -365,3 +365,18 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+  
+/* Sticky footer layout without fixed positioning */
+html, body {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.initial-content {
+  flex: 1 0 auto;
+}
