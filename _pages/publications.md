@@ -22,7 +22,7 @@ Author order is alphabetical by last name unless otherwise noted by (*).
 
 * _Computing a Nonnegative Dyadic Solution to a System of Linear Equations_ <br/> 
 Gérard Cornuéjols, Anthony Karahalios, Vrishabh Patil <br/>
-Submitted to Mathematical Programming Computation. [(pdf)](https://vmpatil.github.io/files/example.pdf)
+Submitted to Mathematical Programming Computation. [(pdf)](https://vmpatil.github.io/files/dyadic.pdf)
 
 * _A Hereditary Property of Cutting Plane Procedures_ <br/> 
 Gérard Cornuéjols, Vrishabh Patil <br/>
