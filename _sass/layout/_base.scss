@@ -366,42 +366,35 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     }
   }
   
-/* --- SAFE STICKY FOOTER WITHOUT SIDEBAR SHIFT --- */
+/* --- STICKY FOOTER & SPACING FIX --- */
 
-/* 1. Ensure the container calculates height relative to the viewport layout */
+/* 1. Reset base elements back to safe defaults */
 html, body {
   height: auto !important;
   display: block !important;
+  padding-top: 0 !important; /* Removes the masthead space */
 }
 
-/* 2. Push the footer perfectly to the baseline without causing a scrollbar */
+/* 2. Push footer to baseline on short pages */
 #main {
   min-height: calc(100vh - 180px) !important;
   box-sizing: border-box !important;
 }
 
-/* 3. Refined footer placement and text alignment */
+/* 3. Perfect spacing above the footer, and exact centering inside it */
 .page__footer, footer {
   position: static !important;
   clear: both !important;
   
-  /* Creates a 40px cushion below your main body text on long pages */
-  margin-top: 40px !important; 
+  /* Adds a healthy 50px cushion below your content on long pages */
+  margin-top: 50px !important; 
   
-  /* Pushes the text down 25px away from the divider line to vertically center it */
-  padding-top: 25px !important; 
+  /* Resets internal box padding to perfectly center the text vertically */
+  padding: 20px 0 !important; 
 }
 
-
-/* --- STICKY NAVIGATION MENU BAR --- */
-.masthead {
-  position: fixed !important;
-  top: 0 !important;
-  width: 100% !important;
-  z-index: 1000 !important;
-  background-color: #fff !important; 
-}
-
-body {
-  padding-top: 60px !important;
+/* Force individual text fragments inside the footer to stay centered */
+.page__footer p, footer p {
+  margin: 0 !important;
+  padding: 0 !important;
 }
