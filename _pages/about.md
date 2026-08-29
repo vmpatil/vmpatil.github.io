@@ -19,7 +19,7 @@ You can find my CV [here](https://vmpatil.github.io/files/Vrishabh_CV.pdf).
 
 - **Nov 2026** *(upcoming)*: Will give a talk on my Amazon internship work at the 2026 INFORMS Annual Meeting, San Francisco, CA.
 - **Jul 2026**: Presented *Computing a Nonnegative Dyadic Solution to a System of Linear Equations* at Amazon's Modeling and Optimization (MOP) seminar.
-- **Oct 2024**: Presented a poster on *Computing a Nonnegative Dyadic Solution to a System of Linear Equations* at the Young Researchers Workshop, Cornell University, Ithaca, NY.
+- **Oct 2025**: Presented a poster on *Computing a Nonnegative Dyadic Solution to a System of Linear Equations* at the Young Researchers Workshop, Cornell University, Ithaca, NY.
 - **Jul 2025**: Presented *Reducing the Chvátal Rank through Binarization* at Amazon's Modeling and Optimization (MOP) seminar.
 - **Oct 2024**: Gave a talk on *Reducing the Chvátal Rank through Binarization* at the INFORMS Annual Meeting, Seattle, WA.
 - **Oct 2024**: Presented a poster on *Addressing Estimation Errors on Expected Asset Returns through Robust Portfolio Optimization* at the Young Researchers Workshop, Cornell University, Ithaca, NY.
