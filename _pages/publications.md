@@ -28,6 +28,10 @@ Submitted to Mathematical Programming Computation. [(pdf)](https://vmpatil.githu
 Gérard Cornuéjols, Vrishabh Patil <br/>
 Submitted to Mathematics of Operations Research. [(pdf)](https://vmpatil.github.io/files/hereditary.pdf)
 
+* _The Lasserre Rank of the Cropped Hypercube_ <br/> 
+Gérard Cornuéjols, Vrishabh Patil, Jiaye Wei <br/>
+To be submitted. [(pdf)](https://vmpatil.github.io/files/cropped_cube.pdf)
+
 ## Journal Publications
 
 * _Healthcare Applications of 0-1 Neural Networks in Prescriptive Problems with Observational Data_ <br/>
