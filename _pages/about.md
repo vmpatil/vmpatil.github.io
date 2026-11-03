@@ -17,7 +17,7 @@ You can find my CV [here](https://vmpatil.github.io/files/Sept13_academic_cv.pdf
 
 <h1 class="page__title">News</h1>
 
-- **Nov 2026** *(upcoming)*: Presented *Simple and Effective Inventory Hedging for Delivery Speed Optimization* at the 2026 INFORMS Annual Meeting, San Francisco, CA.
+- **Nov 2026**: Presented *Simple and Effective Inventory Hedging for Delivery Speed Optimization* at the 2026 INFORMS Annual Meeting, San Francisco, CA.
 - **Jul 2026**: Presented *Computing a Nonnegative Dyadic Solution to a System of Linear Equations* at Amazon's Modeling and Optimization (MOP) seminar.
 - **Oct 2025**: Presented a poster on *Computing a Nonnegative Dyadic Solution to a System of Linear Equations* at the Young Researchers Workshop, Cornell University, Ithaca, NY.
 - **Jul 2025**: Presented *Reducing the Chvátal Rank through Binarization* at Amazon's Modeling and Optimization (MOP) seminar.
