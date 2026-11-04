@@ -50,7 +50,7 @@ Operations Research Letters, 2024. [(Link)](https://www.sciencedirect.com/scienc
 
 * _The Chvátal Rank of 2-Dimensional Integer-Free Polyhedra_ <br/>
 Gérard Cornuéjols, Vrishabh Patil <br/>
-9th International Symposium on Combinatorial Optimization, 2026. (To appear) [(pdf)](https://vmpatil.github.io/files/chvatal2d.pdf)
+Combinatorial Optimization, ISCO 2026, Lecture Notes in Computer Science 16613 (2026) 245-254. [(Link)](doi.org/10.1007/978-3-032-34519-6_18) [(pdf)](https://vmpatil.github.io/files/chvatal2d.pdf)
 
 * _Simple and Effective Inventory Hedging for Delivery Speed Optimization_ <br/>
 Cristiana Lara, Arash Haddadan, Vrishabh Patil <br/>
