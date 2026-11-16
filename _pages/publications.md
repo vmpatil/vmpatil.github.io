@@ -30,7 +30,7 @@ Submitted to Mathematics of Operations Research. [(pdf)](https://vmpatil.github.
 
 * _The Lasserre Rank of the Cropped Hypercube_ <br/> 
 Gérard Cornuéjols, Vrishabh Patil, Jiaye Wei <br/>
-To be submitted. [(pdf)](https://vmpatil.github.io/files/cropped_cube.pdf)
+Submitted to IPCO 2027. [(pdf)](https://vmpatil.github.io/files/cropped_cube.pdf)
 
 ## Journal Publications
 
